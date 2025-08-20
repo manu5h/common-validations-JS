@@ -1,5 +1,5 @@
 {
-  "name": "@manu5h/common-validations-JS",
+  "name": "@manu5h/common-validations-js",
   "version": "1.0.0",
   "description": "Reusable validation utilities",
   "main": "src/index.js",
