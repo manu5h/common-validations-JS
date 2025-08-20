@@ -17,7 +17,7 @@ Currently, it includes **strict email validation**. More validations (NIC, dates
 ---
 
 ## 📦 Installation
-Install directly from GitHub:
+Install via npm:
 
 ```sh
-npm install git+https://github.com/manush/common-validations-JS.git
+npm install @manu5h/common-validations-js
