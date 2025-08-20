@@ -1,0 +1,20 @@
+{
+  "name": "@manu5h/common-validations-js",
+  "version": "1.0.0",
+  "description": "Reusable validation utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "validation",
+    "email",
+    "regex",
+    "react-native",
+    "javascript"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
