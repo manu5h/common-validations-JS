@@ -1,1 +1,1 @@
-export * from "./validateEmail";
+module.exports = require("./validateEmail");
